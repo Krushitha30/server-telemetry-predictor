@@ -2,7 +2,7 @@
 
 An AIOps system that predicts enterprise server failure risks from continuous telemetry logs and schedules proactive maintenance — preventing costly unplanned outages before they happen.
 
-> 🚀 **Live Demo:** [Open App on Streamlit Cloud](https://server-telemetry-predictor-yeb9rvkczmybgopshwygy.streamlit.app)
+> 🚀 **Live Demo:** [Open App on Streamlit Cloud](https://share.streamlit.io) *(Replace this with your deployed Streamlit App URL)*
 
 ---
 
