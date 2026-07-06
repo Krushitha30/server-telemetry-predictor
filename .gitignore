@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit config/credentials
+.streamlit/
+
+# Telemetry data & local files
+*.csv
+*.log
+.venv/
+venv/
+env/
+.env
